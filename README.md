@@ -1,7 +1,11 @@
-# Wallpapers\n\nA collection of wallpapers curated for personal use.
+# My Favorite Wallpapers 🎨
 
-\n\n## Usage\n- Browse the images in this repository.
+A personal collection of wallpapers — minimal, aesthetic, and hand-picked.  
+Perfect for ricing, desktops, and inspiration.
 
-\n- Feel free to download and use them for personal or desktop purposes.
+## Preview
+Browse the collection inside the `wallpapers/` folder.  
+New wallpapers will be added over time. ✨
 
-\n\n## License\nAll wallpapers are free to use for personal purposes.
+---
+⭐ If you like the vibes, feel free to star the repo!
